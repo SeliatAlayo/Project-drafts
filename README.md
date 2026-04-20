@@ -14,16 +14,16 @@ This study uses data collected from r/Coronavirus on Reddit during the time peri
 
 **Software used:** 
 R/RStudio:
-  Packages installed on R:
-  "RedditExtractoR": To collect data from Reddit
-  "tidyverse": To clean data
-  "sentimentr": To score public sentiments 
-  "lubridate": To classify the crisis phase
-  "stargazer": To export the regression result from R into a formatted table (which was then manually moved to Excel)
-  "ggplot2": To generate the figures
-  "tidytext": break words into tokens to make frequency analysis
-  "patchwork": To combine the frequency charts into one image
-  "RColorBrewer": To add colors to the figures
+-Packages installed on R:
+  - "RedditExtractoR": To collect data from Reddit
+  - "tidyverse": To clean data
+  - "sentimentr": To score public sentiments 
+  - "lubridate": To classify the crisis phase
+  - "stargazer": To export the regression result from R into a formatted table (which was then manually moved to Excel)
+  - "ggplot2": To generate the figures
+  - "tidytext": break words into tokens to make frequency analysis
+  - "patchwork": To combine the frequency charts into one image
+  - "RColorBrewer": To add colors to the figures
   
 
 **Repository on GitHub:**
@@ -48,7 +48,7 @@ R/RStudio:
       *Results
         -Tables
         Summary Statistics.xlsx
-        Regression Result.xlsx 
+        Regression Results.xlsx 
 
         -Figures
         Figure 1 - Sentiment Score by Framing.png
@@ -58,18 +58,18 @@ R/RStudio:
 
       
 **Step by step**
--Install the packages in section 4 above in R 
--Set the working directory: setwd("/Users/admin/Documents/POL 688")
--Run the following scripts accordingly:
-  "Data collection script"
-  "Data cleaning script"
-  "Regression script"
-  "Analysis using figures script"
+- Install the packages in section 4 above in R 
+- Set the working directory: setwd("/Users/admin/Documents/POL 688")
+- Run the following scripts accordingly:
+  - "Data collection script"
+  - "Data cleaning script"
+  - "Regression script"
+  - "Analysis using figures script"
   
 - Upload the following files to GitHub:
-  Data folder: raw data and cleaned data
-  Code folder: scripts
-  Results: Tables and Figures 
+  - Data folder: raw data and cleaned data
+  - Code folder: scripts
+  - Results: Tables and Figures 
 
 
 
