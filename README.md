@@ -17,12 +17,12 @@ R/RStudio:
   "RedditExtractoR": To collect data from Reddit
   "tidyverse": To clean data
   "sentimentr": To score public sentiments 
-  "lubridate": 
-  "stargazer" 
-  "ggplot2" 
-  "tidytext" 
-  "patchwork" 
-  "RColorBrewer"
+  "lubridate": To classify the crisis phase
+  "stargazer": To export the regression result from R into a formatted table (which was then moved to Excel)
+  "ggplot2": To generate the figures
+  "tidytext": break words into tokens to make frequency analysis
+  "patchwork": To combine the frequency charts into one image
+  "RColorBrewer": To add colors to the figures
   
 
 **Repository on GitHub:**
