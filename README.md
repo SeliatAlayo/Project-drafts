@@ -9,10 +9,10 @@ The project aims to understand how the public reacted to communications from the
 
 
 **Data collection:**
-This study uses data collected from r/Coronavirus on Reddit. It analyzes posts, specifically those discussing communications from government agencies such as the Centers for Disease Control and Prevention (CDC) and White House, and the comments made on the posts by the public reflecting their opinions, concerns, and emotional responses. Using specific keywords, 1,059 posts were gotten along with 62,010 comments. 
+This study uses data collected from r/Coronavirus on Reddit during the time period of 2020. It analyzes posts, specifically those discussing communications from government agencies such as the Centers for Disease Control and Prevention (CDC) and White House, and the comments made on the posts by the public reflecting their opinions, concerns, and emotional responses. Using specific keywords, 1,059 posts were gotten along with 62,010 comments. 
 
 **Software used:** 
-R/RStudio
+R/RStudio:
   Packages installed on R:
   "RedditExtractoR", "tidyverse", "sentimentr", "lubridate", "stargazer", "ggplot2", "tidytext", "patchwork", "RColorBrewer"
   
