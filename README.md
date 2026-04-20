@@ -14,7 +14,15 @@ This study uses data collected from r/Coronavirus on Reddit during the time peri
 **Software used:** 
 R/RStudio:
   Packages installed on R:
-  "RedditExtractoR", "tidyverse", "sentimentr", "lubridate", "stargazer", "ggplot2", "tidytext", "patchwork", "RColorBrewer"
+  "RedditExtractoR": To 
+  "tidyverse": 
+  "sentimentr" 
+  "lubridate" 
+  "stargazer" 
+  "ggplot2" 
+  "tidytext" 
+  "patchwork" 
+  "RColorBrewer"
   
 
 **Repository on GitHub:**
