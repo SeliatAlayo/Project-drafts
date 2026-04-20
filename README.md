@@ -5,11 +5,12 @@ The project aims to understand how the public reacted to communications from the
 
 **Research Questions:**
 - How do specific words or texts used in public communications (framing) by the government alleviate or increase public sentiments during major crises?
-- To what extent do 
+- To what extent do people express fear and panic in loss-framed messages from the government as compared with gain-framed messages
 
 
 **Data collection:**
 This study uses data collected from r/Coronavirus on Reddit during the time period of 2020. It analyzes posts, specifically those discussing communications from government agencies such as the Centers for Disease Control and Prevention (CDC) and White House, and the comments made on the posts by the public reflecting their opinions, concerns, and emotional responses. Using specific keywords, 1,059 posts were gotten along with 62,010 comments. 
+
 
 **Software used:** 
 R/RStudio:
@@ -18,7 +19,7 @@ R/RStudio:
   "tidyverse": To clean data
   "sentimentr": To score public sentiments 
   "lubridate": To classify the crisis phase
-  "stargazer": To export the regression result from R into a formatted table (which was then moved to Excel)
+  "stargazer": To export the regression result from R into a formatted table (which was then manually moved to Excel)
   "ggplot2": To generate the figures
   "tidytext": break words into tokens to make frequency analysis
   "patchwork": To combine the frequency charts into one image
@@ -27,7 +28,7 @@ R/RStudio:
 
 **Repository on GitHub:**
 -Create a repository on GitHub titled "Project Drafts". 
-  -Under the Project drafts folder:   
+  -Under the Project drafts folder, upload:   
   
     *Code
     Data collection script.R: # Collect raw data from posts about coronavirus on Reddit and comments from the public
@@ -37,7 +38,7 @@ R/RStudio:
 
     *Data
       -Raw: 
-      covid_posts_v3.csv: # Raw Reddit data containing government posts
+      covid_posts_v3.csv: # Raw Reddit data containing r/coronavirus posts
       covid_comments_v3.csv: #Public Comments on government posts on coronavirus
       
       -Analysis:
@@ -56,6 +57,22 @@ R/RStudio:
       
 
       
+**Step by step**
+-Install the packages in section 4 above in R 
+-Set the working directory: setwd("/Users/admin/Documents/POL 688")
+-Run the following scripts accordingly:
+  "Data collection script"
+  "Data cleaning script"
+  "Regression script"
+  "Analysis using figures script"
+  
+- Upload the following files to GitHub:
+  Data folder: raw data and cleaned data
+  Code folder: scripts
+  Results: Tables and Figures 
+
+
+
 
 
 
