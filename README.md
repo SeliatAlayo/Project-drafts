@@ -1,6 +1,6 @@
 # How to reproduce the project: Studying Public Responses to Crisis Communication: The Effect of Government Message Framing on Public Fear and Panic
 
-**Brief Introduction**
+**Brief Introduction:**
 The project aims to understand how the public reacted to communications from the government during the peak period of the coronavirus pandemic in the US. Essentially, it focuses on how positive and negative framing by the government drives public reactions, specifically measuirng sentiments level on social media posts. 
 
 **Research Questions:**
@@ -8,16 +8,17 @@ The project aims to understand how the public reacted to communications from the
 - To what extent do 
 
 
-**Data collection**
+**Data collection:**
 This study uses data gotten from Reddit. Specifically, it analyzes data from posts made by government agencies (Centers for Disease Control and Prevention (CDC), White House) and the comments made on the posts by the public reflecting their opinions, concerns and emotional responses. 
 
-**Software used** 
+**Software used:** 
 R/RStudio
 Github
 
-**Repository on GitHub**
+**Repository on GitHub:**
 -Create a repository on GitHub titled "Project Drafts". 
   -Under the Project drafts folder:   
+  
     *Code
   Data collection script.R: # Collect raw data from government posts about coronavirus on Reddit and comments from the public
   Data cleaning script.R: # Clean the raw data, categorize framing, and sentiment scoring
