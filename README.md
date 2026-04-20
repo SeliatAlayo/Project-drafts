@@ -14,10 +14,10 @@ This study uses data collected from r/Coronavirus on Reddit during the time peri
 **Software used:** 
 R/RStudio:
   Packages installed on R:
-  "RedditExtractoR": To 
-  "tidyverse": 
-  "sentimentr" 
-  "lubridate" 
+  "RedditExtractoR": To collect data from Reddit
+  "tidyverse": To clean data
+  "sentimentr": To score public sentiments 
+  "lubridate": 
   "stargazer" 
   "ggplot2" 
   "tidytext" 
