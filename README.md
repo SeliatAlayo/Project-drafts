@@ -20,10 +20,10 @@ Github
   -Under the Project drafts folder:   
   
     *Code
-  Data collection script.R: # Collect raw data from government posts about coronavirus on Reddit and comments from the public
-  Data cleaning script.R: # Clean the raw data, categorize framing, and sentiment scoring
-  Regression script. R: # Get the summary statistics and run the regression models
-  Analysis using figures script. R: # Generate three figures describing the data 
+    Data collection script.R: # Collect raw data from government posts about coronavirus on Reddit and comments from the public
+    Data cleaning script.R: # Clean the raw data, categorize framing, and sentiment scoring
+    Regression script. R: # Get the summary statistics and run the regression models
+    Analysis using figures script. R: # Generate three figures describing the data 
 
     *Data
       -Raw: 
