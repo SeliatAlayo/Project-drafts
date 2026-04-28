@@ -1,7 +1,7 @@
 # How to reproduce the project: Studying Public Responses to Crisis Communication: The Effect of Government Message Framing on Public Fear and Panic
 
 **1. Brief Introduction:**
-The project aims to understand how the public reacted to communications from the government during the peak period of the coronavirus pandemic in the US. Essentially, it focuses on how positive and negative framing in the government communications drive public reactions, specifically measuirng sentiments level on social media posts. 
+The project aims to understand how the public reacted to communications from the government during the peak period of the coronavirus pandemic in the US. Essentially, it focuses on how positive and negative framing in the government communications drive public reactions, specifically measuring sentiments level on social media posts. 
 
 **2. Research Questions:**
 - How do specific words or texts used in public communications (framing) by the government alleviate or increase public sentiments during major crises?
