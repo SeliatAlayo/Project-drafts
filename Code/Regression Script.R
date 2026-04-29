@@ -1,7 +1,5 @@
 library(stargazer) 
 
-remove vader 
-
 # Filter to gain and loss only
 analysis_clean <- analysis_final %>%
   filter(framing != "neutral")
