@@ -21,7 +21,7 @@ R/RStudio:
   - "lubridate": To classify the crisis phase
   - "stargazer": To export the regression result from R into a formatted table (which was then manually moved to Excel)
   - "ggplot2": To generate the figures
-  - "tidytext": break words into tokens to make frequency analysis
+  - "tidytext": To break words into tokens to make frequency analysis
   - "patchwork": To combine the frequency charts into one image
   - "RColorBrewer": To add colors to the figures
   
